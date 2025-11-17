@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-Full-stack developer with 4 years of personal coding practice, turning ideas into scalable digital solutions since the age of 16. I focus on building web and SaaS platforms that are functional, high-performing, and user-friendly.
+Full-stack developer with 5 years of personal coding practice, turning ideas into scalable digital solutions since the age of 16. I focus on building web and SaaS platforms that are functional, high-performing, and user-friendly.
 ------------------------------
 ### What I Can Do:
 
